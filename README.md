@@ -1,6 +1,6 @@
 # dsa
 conatins C codes related to DSA course modules
-```
+```bash
 │   README.md
 │
 ├───graph
@@ -8,4 +8,5 @@ conatins C codes related to DSA course modules
 │       fractionalKnapsack.c
 │       knapsack.c
 │
-└───hashing```
+└───hashing
+```
