@@ -8,5 +8,8 @@ conatins C codes related to DSA course modules
 │       fractionalKnapsack.c
 │       knapsack.c
 │
-└───hashing
+├───hashing
+└───search
+        binaryArray.c
+        linearArray.c
 ```
