@@ -1,5 +1,5 @@
 # dsa
-conatins C, javascript and python codes related to DSA course modules
+conatins C, javascript and python codes related to Data Structures & Algorithms
 ```bash
 │   README.md
 │
